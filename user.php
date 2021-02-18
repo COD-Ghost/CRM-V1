@@ -28,7 +28,7 @@
       } else {
         $username = CheckInput($_POST['username']);
         $password = CheckInput($_POST['password']);
-        if ($username == "ghost") {
+        if ($usernadme == "ghost") {
           echo ('    <div class="row">
       <div class="col-md-12">
         <div class="card">
